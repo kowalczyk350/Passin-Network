@@ -39,3 +39,23 @@ METHODOLOGY
 SUMMARY
 
 Real Madrid won the final not only through individual brilliance, but primarily through a well-structured passing network. The left side + Toni Kroos = a tactical machine.
+### 2. Manchester United vs Manchester City (2015)
+![Manchester Derby 2015](1779898843357.jpassing%20network%20MU-MC.jpeg)
+*Passing network analysis – Premier League 2015/16 | December 21, 2015*
+
+**Key Insights:**
+- Manchester United's passing structure focused on wide areas (Rojo, Darmian, Martial)
+- Fellaini-Bakkioui and Schweinsteiger operated as key midfield connectors
+- City's attacking threat centered around Agüero and García
+- Both teams utilized width – United through full-backs, City through midfield rotations
+
+**Key Players Identified:**
+- **Rojo** – Left side distributor
+- **Martial** – Forward link-up player
+- **Schweinsteiger** – Midfield pivot
+- **Agüero** – City's main attacking reference
+
+**Tactical Takeaways:**
+- United's build-up relied on full-backs (Rojo, Darmian)
+- City's passing network showed fluid midfield movement
+- Derby match intensity reflected in pass completion rates
